@@ -30,4 +30,4 @@
 
 ## Acknowledgement & Reference
 - 灵感来源于[复旦大学项目](https://github.com/yew/fudanDaily)
-- 参考了这个[项目](https://github.com/StellarDragon/nju-health-report)的打卡策略，节省了大量时间！
+- 参考了这个[项目](https://github.com/StellarDragon/nju-health-report)的打卡策略，节省了大量时间！！
